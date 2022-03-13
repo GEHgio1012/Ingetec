@@ -11,6 +11,44 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 <script src="https://kit.fontawesome.com/70f7b80121.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
     
+<section class="ejemplo">
+<nav id="ejemplo" class=" navbar navbar-expand-lg navbar-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.php"><b><label id="inge" for="">Inge</label><label id="tec" for="">Tec</label></b> </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="d-flex flex-row-reverse collapse navbar-collapse " id="navbarSupportedContent">
+        <div class="">
+
+          
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#"> <b>Integrantes</b> </a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link active" aria-current="page" href="#"> <b>Proyectos</b> </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#"> <b>Vinculaciòn</b> </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#"> <b>Produccion Academica</b> </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#"> <b>Contacto</b> </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#"> <b>Iniciar Sesion</b> </a>
+        </li>
+        </div>
+    </div>
+  </div>
+</nav>
+</section>
