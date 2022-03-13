@@ -29,23 +29,23 @@
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"> <b>Integrantes</b> </a>
+          <a class="nav-link active" aria-current="page" href="#"> Integrantes</a>
         </li>
         <li class="nav-item ">
-          <a class="nav-link active" aria-current="page" href="#"> <b>Proyectos</b> </a>
+          <a class="nav-link active" aria-current="page" href="#"> Proyectos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"> <b>Vinculaciòn</b> </a>
+          <a class="nav-link active" aria-current="page" href="#"> Vinculaciòn</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"> <b>Produccion Academica</b> </a>
+          <a class="nav-link active" aria-current="page" href="#"> Produccion Academica</b> </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"> <b>Contacto</b> </a>
+          <a class="nav-link active" aria-current="page" href="#"> Contacto</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"> <b>Iniciar Sesion</b> </a>
+          <a class="nav-link active" aria-current="page" href="#"> Iniciar Sesion</a>
         </li>
         </div>
     </div>

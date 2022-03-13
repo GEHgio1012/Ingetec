@@ -12,6 +12,11 @@
     color: #3592E0;
 }
 
-#tec{
+.titulo_moral{
+    color: #1468AE;
+}
 
+.contenido_moral{
+    text-align: left;
+    font-size: 16px; 
 }
