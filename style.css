@@ -7,6 +7,12 @@
     background-color: #1F2643;
     color: white;
 }
+.ejemplo{
+    width: 100%;
+    visibility:visible;
+    margin: auto;
+    position:fixed;
+}
 
 #inge{
     color: #3592E0;
@@ -39,3 +45,4 @@
     background-color: #3592E0;
     color: white;
 }
+

@@ -2,8 +2,8 @@
     include "encabezado.php";
 ?>
 
-<section>
-    <div id="carouselExampleDark" class="carousel carousel-dark slide container margin p-3" data-bs-ride="carousel">
+<section >
+    <div id="carouselExampleDark" class="carousel carousel-dark slide w3-margin-bottom " data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -48,6 +48,9 @@
     </div>
 </section>
 
+<div class="container">
+    <div class="row">
+        <div class="col-8">
 <section>
     <div class="container margin p-3">
         <h1 class="titulo_moral">
@@ -109,7 +112,8 @@
                 </ul>
     </div>
 </section>
-
+</div>
+<div class="col-4">
 <section>
     <div class="container margin p-3" id="noticias">
         <h1 class="titulo_blanco">
@@ -142,3 +146,6 @@
         </i>
     </div>
 </section>
+</div>
+</div>
+</div>
