@@ -53,6 +53,3 @@
 </nav>
 </section>
 
-<?php
-  include "pie.php";
-?>
