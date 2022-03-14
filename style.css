@@ -50,7 +50,6 @@
 #noticias{
     background-color: #3592E0;
     color: white;
-    position: static;
+    height: 450px;
     overflow: scroll;
 }
-

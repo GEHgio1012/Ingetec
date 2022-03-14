@@ -24,10 +24,10 @@
             <h2>CONTACTOS</h2>
             <div class="redsocial">
                 <p>Miguel Angel Lechuga Martinez</p>
-                <a href="https://github.com/GEHgio1012" class="fa fa-github"></a>
-                <a href="mailto:186w0224@zongolica.tecnm.mx" class="fas fa-envelope-square"></a>
-                <a href="https://www.facebook.com/profile.php?id=100010200677483" class='fa fa-facebook'></a>
-                <a href="https://www.instagram.com/giovanni_hernandez_1012/?hl=es" class="fa fa-instagram"></a>
+                <a href="https://github.com/milechs" target ="_blank" class="fa fa-github"></a>
+                <a href="mailto:186w0297@zongolica.tecnm.mx" target ="_blank" class="fas fa-envelope-square"></a>
+                <a href="https://www.facebook.com/miguel.lechuga.mtnz.omg" target ="_blank" class='fa fa-facebook'></a>
+                <a href="https://www.instagram.com/milechs_/" target ="_blank" class="fa fa-instagram"></a>
                
             </div>
         </div>
@@ -82,15 +82,15 @@ color: white;
         line-height: 45px;
         color: #fff;
         margin-right: 10px;
-        background-color: #44444C;
+        background-color: #243371;
         text-align: center;
         transition: all 300ms ease;
     }
     .pie .grupo1 .box .redsocial a:hover{
-        color: purple;
+        color: #3592E0;
     }
     .pie .grupo2{
-        background-color: #1468AE;
+        background-color: #243371;
         padding: 15px 0px;
         text-align: center;
         color: #fff;
