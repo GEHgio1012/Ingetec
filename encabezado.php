@@ -18,7 +18,7 @@
 <section class="ejemplo">
 <nav id="ejemplo" class=" navbar navbar-expand-lg navbar-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php"><b><label id="inge" for="">Inge</label><label id="tec" for="">Tec</label></b> </a>
+    <a class="navbar-brand" href="index.php"><b><label id="inge" for="">INGE</label><label id="tec" for="">TEC</label></b> </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

@@ -10,13 +10,32 @@
 
 #inge{
     color: #3592E0;
+    font-size: 28px;
+}
+
+#tec{
+    font-size: 28px;
 }
 
 .titulo_moral{
     color: #1468AE;
 }
 
+.titulo_blanco{
+    color: white;
+}
+
 .contenido_moral{
     text-align: left;
     font-size: 16px; 
+}
+
+.contenido_blanco{
+    text-align: left;
+    font-size: 16px; 
+}
+
+#noticias{
+    background-color: #3592E0;
+    color: white;
 }
