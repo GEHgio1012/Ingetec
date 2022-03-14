@@ -15,7 +15,7 @@
 </head>
 <body>
     
-<section class="ejemplo">
+<section class="ejemplo w3-show">
 <nav id="ejemplo" class=" navbar navbar-expand-lg navbar-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.php"><b><label id="inge" for="">INGE</label><label id="tec" for="">TEC</label></b> </a>
@@ -52,3 +52,7 @@
   </div>
 </nav>
 </section>
+
+<?php
+  include "pie.php";
+?>
